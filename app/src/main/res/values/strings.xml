@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sitios Cercanos</string>
+    <string name="latitud">LATITUD</string>
+    <string name="longitud">LONGITUD</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="miPosicion">mi-Posicion</string>
+    <string name="Salud">Salud</string>
+    <string name="Bancos">Bancos</string>
+</resources>
